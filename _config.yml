@@ -3,7 +3,7 @@ title: KIRANDERSON
 email: "hello@kiranderson.com"
 description: "Видеостудия KirAnderson"
 url: "https://kiranderson.github.io"
-baseurl: "/cinema"
+baseurl: "/mart"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,12 +33,12 @@ comments :
 
 # Internal nav
 nav:
-  - ФОТО: "https://kiranderson.github.io/cinema/gallery/"
-  - ВИДЕО: "https://kiranderson.github.io/cinema/video/"
-  - КЛИПЫ: "https://kiranderson.github.io/cinema/klipy/"
-  - РЕКЛАМА: "https://kiranderson.github.io/cinema/reklama/"
-  - БЛОГ: "https://kiranderson.github.io/cinema/journal/"
-  - О НАС: "https://kiranderson.github.io/cinema/about/"
+  - ФОТО: "https://kiranderson.github.io/mart/gallery/"
+  - ВИДЕО: "https://kiranderson.github.io/mart/video/"
+  - КЛИПЫ: "https://kiranderson.github.io/mart/klipy/"
+  - РЕКЛАМА: "https://kiranderson.github.io/mart/reklama/"
+  - БЛОГ: "https://kiranderson.github.io/mart/journal/"
+  - О НАС: "https://kiranderson.github.io/mart/about/"
 
 # All translation keys
 translations:
